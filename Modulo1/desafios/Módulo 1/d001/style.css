@@ -1,0 +1,6 @@
+p{
+    column-count: 8;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
